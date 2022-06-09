@@ -13,3 +13,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :up: Atualização
 - :exclamation: Correção de bug
 - :checkered_flag: Release
+
+[Confira a página](https://tiagobarbosa88.github.io/potfolio/)
